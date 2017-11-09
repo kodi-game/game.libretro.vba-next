@@ -21,6 +21,6 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Use bios (if available)"
+msgid "Use bios if available (Restart)"
 msgstr ""
 
