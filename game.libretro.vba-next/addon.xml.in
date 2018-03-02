@@ -15,8 +15,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Nintendo - Game Boy Advance (VBA Next) v1.0.2</summary>
-		<description>VBA-Next is a fork from the now inactive VisualBoy Advance project, with goals to improve the compatibility and features of the emulator.
+		<summary lang="en_GB">Nintendo - Game Boy Advance (VBA Next) v1.0.2</summary>
+		<description lang="en_GB">VBA-Next is a fork from the now inactive VisualBoy Advance project, with goals to improve the compatibility and features of the emulator.
 
 Supported files: .gba</description>
 		<license>GPLv2</license>
