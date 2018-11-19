@@ -4,7 +4,7 @@ project(game.libretro.vba-next)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-vba-next REQUIRED)
+find_library(VBA-NEXT_LIB NAMES vba_next_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(VBA-NEXT_CUSTOM_BINARY ${VBA-NEXT_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
