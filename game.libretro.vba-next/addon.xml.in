@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vba-next"
 		name="Nintendo - Game Boy Advance (VBA Next)"
-		version="1.0.2.6"
-		provider-name="Libretro">
+		version="1.0.2.7"
+		provider-name="Forgotten, VBA-M Team, Squarepusher">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.gba" version="1.0.0"/>
