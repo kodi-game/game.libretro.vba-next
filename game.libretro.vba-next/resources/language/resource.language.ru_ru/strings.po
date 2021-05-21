@@ -26,9 +26,9 @@ msgid "Use BIOS if available (Restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Turbo Delay in frames"
+msgid "Enable Turbo Buttons"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Enable Turbo Buttons"
+msgid "Turbo Delay in frames"
 msgstr ""
