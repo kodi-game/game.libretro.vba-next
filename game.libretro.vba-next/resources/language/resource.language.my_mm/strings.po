@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - Game Boy Advance (VBA Next) v1.0.2"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "VBA-Next is a fork from the now inactive VisualBoy Advance project, with goals to improve the compatibility and features of the emulator.
+
+Supported files: .gba"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
