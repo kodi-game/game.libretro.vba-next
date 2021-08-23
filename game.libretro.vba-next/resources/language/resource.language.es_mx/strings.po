@@ -26,9 +26,13 @@ msgid "Use BIOS if available (Restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Enable Turbo Buttons"
+msgid "Force Enable RTC (Restart)"
 msgstr ""
 
 msgctxt "#30003"
+msgid "Enable Turbo Buttons"
+msgstr ""
+
+msgctxt "#30004"
 msgid "Turbo Delay in frames"
 msgstr ""
