@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vba-next"
 		name="Nintendo - Game Boy Advance (VBA Next)"
-		version="1.0.2.16"
+		version="1.0.2.17"
 		provider-name="Forgotten, VBA-M Team, Squarepusher">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -13,6 +13,7 @@
 		<extensions>gba</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
