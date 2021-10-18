@@ -6,6 +6,9 @@
 ### Description
 VBA-Next is a fork from the now inactive VisualBoy Advance project, with goals to improve the compatibility and features of the emulator.
 
+### License
+GPLv2
+
 ### Icon
 
 ![Icon](game.libretro.vba-next/resources/icon.png)
@@ -18,4 +21,4 @@ VBA-Next is a fork from the now inactive VisualBoy Advance project, with goals t
 
 ![Screenshot](game.libretro.vba-next/resources/screenshot-03.jpg)
 
-You can view a list of Libretro cores that have been ported to Kodi at the [Game add-ons - Libretro cores](https://kodi.wiki/view/Game_add-ons#Libretro_cores) wiki article.
+
