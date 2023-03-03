@@ -1,1 +1,1 @@
-vba-next https://github.com/libretro/vba-next/archive/5f497a9e70c94cbaaf6deb3c8299bd6b02002a5d.tar.gz
+vba-next https://github.com/libretro/vba-next/archive/0c310082a6345790124e9348861b300bcccbeced.tar.gz
