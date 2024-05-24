@@ -33,6 +33,7 @@
 		<description lang="de_DE">VBA-Next ist ein Fork des mittlerweile nicht mehr aktiven VisualBoy-Advance-Projekts, mit dem Ziel, die Kompatibilität und die Funktionen des Emulators zu verbessern.</description>
 		<description lang="en_GB">VBA-Next is a fork from the now inactive VisualBoy Advance project, with goals to improve the compatibility and features of the emulator.</description>
 		<description lang="es_ES">VBA-Next es una bifurcación del ahora inactivo proyecto VisualBoy Advance, con el objetivo de mejorar la compatibilidad y las características del emulador.</description>
+		<description lang="sl_SI">VBA-Next je razcep iz zdaj neaktivnega projekta VisualBoy Advance, katerega namen je izboljšati združljivost in funkcije emulatorja.</description>
 		<description lang="zh_CN">VBA-Next 是现在不活跃的 VisualBoy Advance 项目的一个分支，其目标是改进模拟器的兼容性和功能。</description>
 	</extension>
 </addon>
