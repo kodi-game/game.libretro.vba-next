@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "VBA-Next is a fork from the now inactive VisualBoy Advance project, with goals to improve the compatibility and features of the emulator."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Use BIOS if available (Restart)"
 msgstr ""
