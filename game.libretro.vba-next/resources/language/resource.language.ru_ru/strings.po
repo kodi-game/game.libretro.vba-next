@@ -29,10 +29,6 @@ msgctxt "#30001"
 msgid "Use BIOS if available (Restart)"
 msgstr "Использовать BIOS, если доступен (перезапуск)"
 
-msgctxt "#30002"
-msgid "Force Enable RTC (Restart)"
-msgstr "Принудительное включение RTC (перезапуск)"
-
 msgctxt "#30003"
 msgid "Enable Turbo Buttons"
 msgstr "Включить турбо-кнопки"
@@ -40,6 +36,14 @@ msgstr "Включить турбо-кнопки"
 msgctxt "#30004"
 msgid "Turbo Delay in frames"
 msgstr "Турбо-задержка в кадрах"
+
+msgctxt "#30005"
+msgid "RTC (Restart)"
+msgstr ""
+
+#~ msgctxt "#30002"
+#~ msgid "Force Enable RTC (Restart)"
+#~ msgstr "Принудительное включение RTC (перезапуск)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

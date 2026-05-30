@@ -29,10 +29,6 @@ msgctxt "#30001"
 msgid "Use BIOS if available (Restart)"
 msgstr "Uporabi BIOS, če je na voljo (ponovni zagon)"
 
-msgctxt "#30002"
-msgid "Force Enable RTC (Restart)"
-msgstr "Prisilno omogoči RTC (ponovni zagon)"
-
 msgctxt "#30003"
 msgid "Enable Turbo Buttons"
 msgstr "Omogoči gumbe Turbo"
@@ -40,6 +36,14 @@ msgstr "Omogoči gumbe Turbo"
 msgctxt "#30004"
 msgid "Turbo Delay in frames"
 msgstr "Turbo zakasnitev v okvirjih"
+
+msgctxt "#30005"
+msgid "RTC (Restart)"
+msgstr ""
+
+#~ msgctxt "#30002"
+#~ msgid "Force Enable RTC (Restart)"
+#~ msgstr "Prisilno omogoči RTC (ponovni zagon)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
