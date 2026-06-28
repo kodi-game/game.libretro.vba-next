@@ -41,6 +41,10 @@ msgctxt "#30005"
 msgid "RTC (Restart)"
 msgstr ""
 
+msgctxt "#30006"
+msgid "Threaded Renderer (Restart)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Axustes"
