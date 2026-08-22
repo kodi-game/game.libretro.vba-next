@@ -45,6 +45,26 @@ msgctxt "#30006"
 msgid "Threaded Renderer (Restart)"
 msgstr ""
 
+msgctxt "#30007"
+msgid "Uses BIOS present in RetroArch's system directory."
+msgstr ""
+
+msgctxt "#30008"
+msgid "Controls Real-Time Clock emulation. 'auto' uses the per-ROM override list. 'enabled' forces RTC on for any ROM (useful for ROM hacks needing RTC without a matching override). 'disabled' forces RTC off, overriding the override list."
+msgstr ""
+
+msgctxt "#30009"
+msgid "Render scanlines on a worker thread.  May reduce stutter on slower CPUs at the cost of slight input-to-display latency.  Restart required for changes to take effect."
+msgstr ""
+
+msgctxt "#30010"
+msgid "Enable or disable gamepad turbo buttons."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Repeat rate of turbo triggers in frames. Higher value triggers more."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Configurações"
